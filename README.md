@@ -1,3 +1,5 @@
+![header](https://gavinbaradic.com/og.png)
+
 I am a designer and engineer, currently focused on building design systems at [Gemini](https://www.gemini.com/).
 
 Over the last 11 years, I have focused on creating products that achieve two critical outcomes: delivering delightful user experiences and driving meaningful business impact.
