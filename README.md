@@ -1,9 +1,9 @@
 ![header](https://gavinbaradic.com/og.png)
 
-I am a designer and engineer, currently focused on building design systems at [Gemini](https://www.gemini.com/).
+## Designer and engineer, currently building design systems that empower teams to build great experiences.
 
-Over the last 11 years, I have focused on creating products that achieve two critical outcomes: delivering delightful user experiences and driving meaningful business impact.
+Over the last eleven years, I have focused on creating products that deliver delightful user experiences and drive meaningful business impact.
 
-As a multidisciplinary designer, I prioritize building relationships and bridging gaps across cross-functional teams, creating a collaborative and team-oriented environment.
+I prioritize building relationships and bridging gaps across cross-functional teams, creating a collaborative and team-oriented environment.
 
-My passion lies in the end-to-end process of product development, from ideation to design and front/back-end development. I have developed expertise in React, React Native, and other technologies through my [self-led side projects](https://gavinbaradic.com/portfolio/metabuilt-studio).
+My passion lies in the end-to-end process of product development, from ideation to build. I have developed a strong knowledge of React, React Native, and other technologies through my self-led side projects.
